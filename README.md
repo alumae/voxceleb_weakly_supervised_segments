@@ -21,12 +21,12 @@ Note that the VoxCeleb2 dataset doesn't come with the full audio files, it conly
 extracted from the videos. Therefore, it's your task to download the files yourself. Or frop me an e-mail,
 I can make the downloaded and extracted audio available online (it's around 1.1 TB).
 
-For more information see the paper [_Training Speaker Recognition Models with Recording-level Labels_](doc/alumae2018training.pdf), to appear in the proceedings of SLT 2018.
+For more information, see the paper [_Training Speaker Recognition Models with Recording-level Labels_](doc/alumae2018training.pdf), to appear in the proceedings of SLT 2018.
 
 BibTex reference for the paper:
 
     @inproceedings{alumae2018training,
-      author={Tanel Alum\"{a}e,
+      author={Tanel Alum\"{a}e},
       title={Training Speaker Recognition Models with Recording-level Labels},
       bootlitle={IEEE Workshop on Spoken Language technology (SLT)},
       year=2018
